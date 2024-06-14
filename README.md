@@ -3,6 +3,7 @@
 ## Description
 This is a simple console-based user management application written in C#. It allows users to register, log in, change status, search for other users, and change their password.
 
+
 ## Features
 - Register a new user
 - Login
@@ -64,4 +65,9 @@ This is a simple console-based user management application written in C#. It all
 - **Change Password**: `changepassword --old [oldPassword] --new [newPassword]`
 - **Logout**: `logout`
 
+5. **Demo Video**:
+https://github.com/HasanRoknabady/UserManagementApp/assets/78913791/f2abeb4b-b663-45e3-ab95-6b0118e4516c
+
+
+   
 
